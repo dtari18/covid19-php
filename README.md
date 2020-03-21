@@ -8,4 +8,8 @@ Cara Mendapatkan API-KEY dari RapidApi khusus COVID-19 :
 4. Pilihlah Code Snippet "PHP >>> cURL". Ini dikarenakan menampilkan data statistik COVID-19 dunia menggunakan PHP Native.
 5. Salinkan kode API-KEY yang terdapat "x-rapidapi-key" dan paste-kan ke dalam suatu halaman file .php.
 6. Selesai. Silahkan ngoding.. 
+
+Catatan : 
+other.php >>> Halaman yang berguna untuk mengisi atau memilih negara lain sesuka hati kamu untuk melihat hasil data COVID-19.
+
 Terima kasih.
